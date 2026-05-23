@@ -11,14 +11,12 @@
             "id": "333b193f47ebab8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "虛擬機/虛擬機.md",
-                "mode": "source",
-                "source": false
+                "file": "計算機結構/ppt/期中/1142 0 CA CourseOverview.pdf"
               },
-              "icon": "lucide-file",
-              "title": "虛擬機"
+              "icon": "lucide-file-text",
+              "title": "1142 0 CA CourseOverview"
             }
           },
           {
@@ -212,18 +210,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "333b193f47ebab8c",
+  "active": "030bd31daede0e72",
   "lastOpenFiles": [
+    "計算機結構/ppt/1142 8 MultiProcessors.pdf",
+    "計算機結構/ppt/1142 9 MemHierarchy.pdf",
+    "計算機結構/ppt/1142 10 Storage.pdf",
+    "計算機結構/ppt/1142 5 Scoreboard.pdf",
+    "計算機結構/ppt/1142 6 Tomasulo.pdf",
+    "計算機結構/ppt/1142 7 Branch Prediction.pdf",
+    "計算機結構/期末筆記.md",
+    "計算機結構/ppt/期中",
+    "圖論/期中.md",
+    "計算機結構/2021 考古.md",
+    "圖論/~$期中圖.pptx",
+    "虛擬機/虛擬機.md",
     "cards/VM - { hw1.1 }.md",
     "虛擬機/111502544_HW1.md",
-    "虛擬機/虛擬機.md",
     "虛擬機/期中筆記.md",
-    "圖論/期中.md",
     "cards/GT - { 1.6.13 }.md",
     "圖論/ppt2CB2.tmp",
     "cards/GT - { 1.6.9 }.md",
     "圖論/pptCABB.tmp",
-    "圖論/~$期中圖.pptx",
     "cards/GT - { 1.5.6(b) }.md",
     "img/Pasted image 20260414203928.png",
     "img/Pasted image 20260414203331.png",
@@ -242,22 +249,14 @@
     "虛擬機/hw1.md",
     "cards/VM - { ch1 NotebookLM }.md",
     "計算機結構/期中筆記.md",
-    "計算機結構/考古.md",
-    "計算機結構/ppt/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf",
-    "LATEX_SYMBOL.pdf",
+    "計算機結構/ppt/期中/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf",
     "img/Pasted image 20260413195516.png",
-    "圖論/ppt880B.tmp",
-    "圖論/pptD859.tmp",
-    "圖論/ppt45AD.tmp",
-    "圖論/ppt5A5F.tmp",
     "img/Pasted image 20260413123109.png",
-    "圖論/ppt48DF.tmp",
     "cards/GT - { 1.5.9 }.md",
     "img/Pasted image 20260412163645.png",
     "img/Pasted image 20260412163644.png",
     "cards/GT - { 1.5.8 }.md",
     "img/Pasted image 20260411133955.png",
-    "cards/VM - { hw1.10 }.md",
-    "cards/VM - { hw1.9 }.md"
+    "cards/VM - { hw1.10 }.md"
   ]
 }

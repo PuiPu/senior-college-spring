@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "40f52e65b8246ec9",
+        "id": "e6b9eca3d4c61b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "5441fdfa8ae69e8d",
+            "id": "670d85d40da7598e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "計算機結構/期中/quiz.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quiz"
+            }
+          },
+          {
+            "id": "a00ca98d3257e88e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "虛擬機/期中列印/OS_VM.pdf"
+                "file": "計算機結構/ppt/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "OS_VM"
+              "title": "1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片"
+            }
+          },
+          {
+            "id": "8ba205cea648b3bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,8 +221,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5441fdfa8ae69e8d",
+  "active": "8ba205cea648b3bb",
   "lastOpenFiles": [
+    "計算機結構/期中/quiz.md",
+    "img/Pasted image 20260417104711.png",
+    "計算機結構/ppt/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf",
+    "img/79962.jpg",
+    "img/11a7c234-7818-4ca0-b548-2a3b08282df8.png",
+    "img/79961_0.jpg",
+    "img/79960_0.jpg",
+    "img/1142 Quiz 4 Dependency.jpg",
+    "img/1142 Quiz 3 Forwarding Condition.jpg",
+    "img/1142 Quiz 2 Amdahl’s Law -2.jpg",
+    "img/1142 Quiz 2 Amdahl’s Law -1.jpg",
+    "img/1142 Quiz 1 Availability MTTF.jpg",
+    "計算機結構/ppt/1142 0 CA CourseOverview.pdf",
+    "計算機結構/期中筆記.md",
+    "計算機結構/考古.md",
+    "計算機結構/期中/2024.pdf",
+    "計算機結構/期中",
+    "虛擬機/期中列印/OS_VM.pdf",
     "虛擬機/期中列印/hw1_all.pdf",
     "虛擬機/期中列印/虛擬機重點.pdf",
     "虛擬機/虛擬機重點.md",
@@ -205,7 +248,6 @@
     "虛擬機/期中筆記.md",
     "TEXTBOOK/Virtual Machines - Versatile Platforms for Systems and Processes.pdf",
     "cards/VM - { hw1.7 }.md",
-    "虛擬機/期中列印/OS_VM.pdf",
     "虛擬機/期中列印/OS_VM1.pdf",
     "虛擬機/期中列印",
     "cards/VM - { hw1.10 }.md",
@@ -225,23 +267,6 @@
     "cards/GT - { 7.3.1 }.md",
     "cards/GT - { 7.2.5 }.md",
     "cards/GT - { 7.2.3 }.md",
-    "cards/GT - { 1.6.12 }.md",
-    "cards/GT - { 1.6.10 }.md",
-    "cards/GT - { 1.6.9 }.md",
-    "cards/GT - { 1.6.3 }.md",
-    "圖論/ppt2CB2.tmp",
-    "圖論/pptCABB.tmp",
-    "圖論/~$期中圖.pptx",
-    "img/Pasted image 20260414203928.png",
-    "img/Pasted image 20260414203331.png",
-    "img/Pasted image 20260414200305.png",
-    "img/Pasted image 20260414195345.png",
-    "img/Pasted image 20260414193126.png",
-    "計算機結構/ppt/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf",
-    "img/Pasted image 20260413195516.png",
-    "img/Pasted image 20260413123109.png",
-    "img/Pasted image 20260412163645.png",
-    "img/Pasted image 20260412163644.png",
-    "img/Pasted image 20260411133955.png"
+    "cards/GT - { 1.6.12 }.md"
   ]
 }

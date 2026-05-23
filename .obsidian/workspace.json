@@ -37,10 +37,14 @@
             "id": "8ba205cea648b3bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -223,9 +227,21 @@
   },
   "active": "8ba205cea648b3bb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "計算機結構/期末筆記.md",
+    "計算機結構/ppt/期中/1142 4 Advanced Pipelining and ILP.pdf",
+    "計算機結構/ppt/期中/1142 3 Pipeline.pdf",
+    "計算機結構/ppt/期中/1142 2 Instruction Set.pdf",
+    "計算機結構/ppt/期中/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf",
+    "計算機結構/ppt/期中/1142 0 CA CourseOverview.pdf",
+    "計算機結構/ppt/期中",
+    "計算機結構/ppt/1142 9 MemHierarchy.pdf",
+    "計算機結構/ppt/1142 8 MultiProcessors.pdf",
+    "計算機結構/ppt/1142 7 Branch Prediction.pdf",
+    "計算機結構/ppt/1142 6 Tomasulo.pdf",
+    "計算機結構/2021 考古.md",
     "計算機結構/期中/quiz.md",
     "img/Pasted image 20260417104711.png",
-    "計算機結構/ppt/1142 1 Fundamentals Of Computer Design_上課用unmark隱藏投影片.pdf",
     "img/79962.jpg",
     "img/11a7c234-7818-4ca0-b548-2a3b08282df8.png",
     "img/79961_0.jpg",
@@ -235,21 +251,12 @@
     "img/1142 Quiz 2 Amdahl’s Law -2.jpg",
     "img/1142 Quiz 2 Amdahl’s Law -1.jpg",
     "img/1142 Quiz 1 Availability MTTF.jpg",
-    "計算機結構/ppt/1142 0 CA CourseOverview.pdf",
     "計算機結構/期中筆記.md",
     "計算機結構/考古.md",
-    "計算機結構/期中/2024.pdf",
-    "計算機結構/期中",
-    "虛擬機/期中列印/OS_VM.pdf",
-    "虛擬機/期中列印/hw1_all.pdf",
-    "虛擬機/期中列印/虛擬機重點.pdf",
     "虛擬機/虛擬機重點.md",
     "虛擬機/虛擬機.md",
     "虛擬機/期中筆記.md",
-    "TEXTBOOK/Virtual Machines - Versatile Platforms for Systems and Processes.pdf",
     "cards/VM - { hw1.7 }.md",
-    "虛擬機/期中列印/OS_VM1.pdf",
-    "虛擬機/期中列印",
     "cards/VM - { hw1.10 }.md",
     "虛擬機/hw1.md",
     "cards/VM - { hw1.9 }.md",
@@ -261,12 +268,10 @@
     "cards/VM - { hw1.1 }.md",
     "虛擬機/111502544_HW1.md",
     "圖論/期中.md",
-    "conflict-files-obsidian-git.md",
     "cards/GT - { 7.2.6(a) }.md",
     "cards/GT - { 7.3.2 }.md",
     "cards/GT - { 7.3.1 }.md",
     "cards/GT - { 7.2.5 }.md",
-    "cards/GT - { 7.2.3 }.md",
-    "cards/GT - { 1.6.12 }.md"
+    "cards/GT - { 7.2.3 }.md"
   ]
 }

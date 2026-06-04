@@ -1,3 +1,7 @@
+# Key word
+- IEF (Interpretive Execution Facility)
+	- SIE (Start Interpretive Execution)
+	- 
 # Question
 請說明 IBM 公司提出的 Interpretive Execution Facility (IEF)是如何運作的?
 # Answer

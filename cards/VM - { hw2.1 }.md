@@ -1,3 +1,8 @@
+# Key word
+- critical instruction : (Popek & Goldberg) theorem
+	- Popek & Goldberg theorem 1 $\rightarrow$ TEXTBOOK p.387
+- binary translation
+	
 # Question
 請以 Popek & Goldberg 提出的定理解釋何謂 關鍵(或稱臨界)指令(critical instruction)? 針對這類因硬體設計不週延所引發的問題, 利用二進制翻譯(binary translation)技術帶來的做法, 請敘述那兩種不用 source program 進行改善, 針對二進碼指令達到有效虛擬化的技術方案.
 

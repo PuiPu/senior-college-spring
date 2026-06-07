@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8c951906d6584a4a",
+        "id": "5ffdb9b345b7f224",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "計算機結構/期末筆記.md",
+                "file": "計算機結構/期末考古.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末筆記"
+              "title": "期末考古"
             }
           }
         ]
@@ -200,14 +200,19 @@
   },
   "active": "a0cf131320e81555",
   "lastOpenFiles": [
-    "計算機結構/期末考古.md",
-    "計算機結構/期中筆記.md",
     "計算機結構/期末筆記.md",
+    "計算機結構/期末考古.md",
+    "計算機結構/ppt/1142 7 Branch Prediction.pdf",
+    "計算機結構/ppt/1142 9 MemHierarchy.pdf",
+    "計算機結構/ppt/1142 8 MultiProcessors.pdf",
+    "計算機結構/ppt/期中/1142 4 Advanced Pipelining and ILP.pdf",
+    "計算機結構/ppt/1142 10 Storage.pdf",
     "計算機結構/2021 考古.md",
-    "計算機結構/考古/2012.pdf",
     "計算機結構/考古/2016.jpg",
-    "計算機結構/考古/2022.pdf",
+    "計算機結構/考古/2012.pdf",
+    "計算機結構/期中筆記.md",
     "計算機結構/考古/2024.pdf",
+    "計算機結構/考古/2022.pdf",
     "虛擬機/bellard-QEMU.pdf",
     "虛擬機/期中列印/hw1_all.pdf",
     "虛擬機/111502544_HW2.md",
@@ -223,13 +228,10 @@
     "cards/VM - { hw2.1 }.md",
     "虛擬機/hw2.md",
     "虛擬機/111502544_HW1.md",
-    "虛擬機/期中列印/虛擬機重點.pdf",
     "虛擬機/期末筆記.md",
     "cards/VM - { 8.7 notebookLM }.md",
     "cards/VM - { ch8 notebookLM }.md",
     "虛擬機/hw1.md",
-    "計算機結構/考古/2024 (1).pdf",
-    "計算機結構/考古/2012.docx.pdf",
     "計算機結構/quiz.md",
     "img/1000024055.jpg",
     "img/1142 Quiz 7.png",
@@ -239,10 +241,8 @@
     "img/螢幕擷取畫面 2026-05-15 151840.png",
     "img/螢幕擷取畫面 2026-05-15 152658.png",
     "計算機結構/期中/quiz.md",
-    "計算機結構/ppt/1142 8 MultiProcessors.pdf",
     "虛擬機/虛擬機.md",
     "虛擬機/虛擬機重點.md",
-    "圖論/期末候選.pdf",
     "img/Pasted image 20260417104711.png",
     "img/Pasted image 20260417103507.png"
   ]
